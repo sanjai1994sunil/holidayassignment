@@ -1,0 +1,19 @@
+.holiday-item{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+    border: 1px solid black;
+    font-family: "Roboto";
+    background: linear-gradient(90deg, #ffffff 0%, #ffe1e1 100%);
+    
+}
+
+.local-name{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+}
+.date{
+    font-weight: 700;
+}
